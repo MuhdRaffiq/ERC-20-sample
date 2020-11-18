@@ -19,10 +19,10 @@
  */
 
  const HDWalletProvider = require('@truffle/hdwallet-provider');
- const infuraKey = "62997446152c4169a3ac0ecd18bf89a4";
+ const infuraKey = "PUT YOUR INFURA KEY HERE";
 //
 // const fs = require('fs');
- const mnemonic = "liquid sadness sock gorilla discover elite treat width noble rescue fossil emerge";
+ const mnemonic = "PUT YOUR SEEDS PHRASE HERE";
 
 module.exports = {
   /**
